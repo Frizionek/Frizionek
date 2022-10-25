@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frizionek
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++,Python
+- 🌱 I’m currently learning C++,Python,lua
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me: Fr1z1on3k#3347
 <!---
